@@ -55,7 +55,7 @@ ul{
 
 
 #top-section-main{
-    background-image: url('https://github.com/anishka-sankar/Awesome/tree/master/Images/friends.jpg') ; 
+    background-image: url('Images/friends.jpg') ; 
     height:740px;
     border:none;
    
@@ -274,7 +274,7 @@ ul{
 }
 
 #action-container{
-    background-image: url('/Images/darkdesk.png');
+    background-image: url('Images/darkdesk.png');
     margin-top: 1000px;
     height:500px;
 
@@ -414,7 +414,7 @@ ul{
 }
 
 footer{
-    background-image: url('/Images/footerbg.png');
+    background-image: url('Images/footerbg.png');
     margin-top:450px;
     height:500px;
 }
